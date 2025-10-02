@@ -124,12 +124,12 @@ bash scripts/run.sh \
 If you find this work useful, please cite our paper:
 
 ```bibtex
-@inproceedings{anonymous2025practical,
-title={Practical and Effective Code Watermarking for Large Language Models},
-author={Zhimeng Guo and Minhao Cheng},
-booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
-year={2025},
-url={https://openreview.net/forum?id=RpE4HeuX69}
+@inproceedings{guo2025practical,
+  title={Practical and Effective Code Watermarking for Large Language Models},
+  author={Guo, Zhimeng and Cheng, Minhao},
+  booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+  year={2025},
+  url={https://openreview.net/forum?id=RpE4HeuX69}
 }
 ```
 
